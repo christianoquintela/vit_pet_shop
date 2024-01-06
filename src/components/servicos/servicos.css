@@ -1,0 +1,26 @@
+.container_services {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+
+  color: #3c184e;
+  
+}
+
+.container_text_services ul{
+    margin-bottom: 3rem;
+  text-align: justify;
+}
+.container_text_services h3 {
+    font-size: 2rem;
+  text-align: center;
+}
+
+.container_text_services div {
+  display: flex;
+  justify-content: center;
+}
+
+.container_text_services div img {
+  flex-grow: 1;
+}

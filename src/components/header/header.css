@@ -1,13 +1,22 @@
-.container_header{
-    width: 100%;
-    background-color:  #fff;
-    color: #3c184e;
+.container_header {
+  width: 100%;
+  max-width: 1440px;
+  background-color: #fff;
+  color: #3c184e;
 }
 
-.container_text{
-    width: 250px;
+.container_text {
+  box-sizing: border-box;
+  width: 390px;
+  padding: 0.5rem 1rem;
+  /* background-color: beige; */
 }
-.container_text h1{
-    font-weight: 300;
-    font-family: sans-serif;
+.container_text h1 {
+  font-weight: 300;
+  font-family: sans-serif;
+}
+
+.img_pata {
+  width: 2.4rem;
+  margin-right: 3px;
 }

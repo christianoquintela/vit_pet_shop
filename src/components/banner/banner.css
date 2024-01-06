@@ -1,0 +1,45 @@
+.banner {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100vh;
+  background-image: url('../../assets/img/banner-topo.jpg');
+  background-size: cover;
+  background-position: center center;
+  padding: 120px 80px;
+}
+
+.banner_text {
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  
+  text-align: center;
+
+  max-width: 1024px;
+  border-radius: 10px;
+  padding: 40px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #ffffffc4;
+  box-shadow: 0 8px 32px #1f26875e;
+  
+  color: #3c184e;
+}
+
+.banner_text h1{
+    
+    font-size: 60px;
+}
+
+.banner_text p {
+  margin: 0 auto;
+  width: 140px;
+  padding: 6px;
+  border-radius: 8px;
+  font-size: 1rem;
+  background-color: #3c184e;
+  color: #fff;
+}
+.banner_text img {
+  width: 16px;
+}
