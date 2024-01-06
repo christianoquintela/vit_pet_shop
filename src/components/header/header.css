@@ -1,0 +1,13 @@
+.container_header{
+    width: 100%;
+    background-color:  #fff;
+    color: #3c184e;
+}
+
+.container_text{
+    width: 250px;
+}
+.container_text h1{
+    font-weight: 300;
+    font-family: sans-serif;
+}
