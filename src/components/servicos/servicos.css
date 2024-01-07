@@ -4,15 +4,18 @@
   margin: 0 auto;
 
   color: #3c184e;
-  
 }
 
-.container_text_services ul{
-    margin-bottom: 3rem;
+.container_text_services ul {
+  margin-bottom: 3rem;
   text-align: justify;
 }
+
+.container_text_services li {
+  margin: 20px 0;
+}
 .container_text_services h3 {
-    font-size: 2rem;
+  font-size: 2rem;
   text-align: center;
 }
 
@@ -23,4 +26,7 @@
 
 .container_text_services div img {
   flex-grow: 1;
+  margin: 0 2px;
+  box-shadow: 3px 6px 10px 6px #0000005c;
+  border-radius: 10px;
 }

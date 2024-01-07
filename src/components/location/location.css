@@ -1,0 +1,22 @@
+.container_location{
+    width: 100%;
+    /* padding: 120px 80px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box_location{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+
+}
+
+.box_location h3, p{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin-bottom: 45px;
+}

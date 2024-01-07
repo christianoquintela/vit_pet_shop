@@ -1,0 +1,36 @@
+.container_marcas{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 120px 80px;
+
+    /* background-color: blue; */
+}
+
+.box_marcas{
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    /* color: #888;     */
+     color: #3c184e;
+    text-align: center;
+    
+
+}
+.box_marcas h2{
+    font-size: 2rem;
+    
+}
+
+.marcas ul{
+    /* background-color: aqua; */
+    padding: 30px;
+    /* margin: 50px; */
+    box-sizing: border-box;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 40px;
+    list-style: none;
+
+}
