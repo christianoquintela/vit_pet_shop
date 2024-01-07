@@ -58,3 +58,14 @@ Um texto;
 Um mapa.
 
 6 - Na seção rodapé, nossa última seção, terá como parte da estrutura um texto informativo com o nome do desenvolvedor do site.
+
+###Tabela de cores:
+
+#3c184e
+#fff
+
+###Font-Family
+
+Sans-serif
+
+

@@ -7,16 +7,19 @@
 
 .container_text {
   box-sizing: border-box;
-  width: 390px;
-  padding: 0.5rem 1rem;
-  /* background-color: beige; */
+  width: 250px;
 }
-.container_text h1 {
-  font-weight: 300;
-  font-family: sans-serif;
+.container_text p:first-of-type {
+  font-size: 35px;
+  margin-bottom: 5px;
 }
 
+.container_text p:last-of-type {
+  font-size: 14px;
+  text-align: center;
+  margin: 0;
+}
 .img_pata {
-  width: 2.4rem;
-  margin-right: 3px;
+  width: 30px;
+  margin-right: 5px;
 }
