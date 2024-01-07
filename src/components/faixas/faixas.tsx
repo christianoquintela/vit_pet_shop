@@ -1,5 +1,4 @@
-interface FaixasProps {
-  titulo?: string;
+interface FaixasProps {  
   paragrafo?: string | null;
 }
 //css

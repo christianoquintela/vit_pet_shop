@@ -2,24 +2,36 @@
   width: 100%;
   max-width: 1024px;
   margin: 0 auto;
-
-  color: #3c184e;
+  padding: 120px 80px;
 }
 
 .container_text_services ul {
-  margin-bottom: 3rem;
+  max-width: 800px;
+  margin: 0 auto 50px auto;
+  color: #3c184e;
   text-align: justify;
 }
 
 .container_text_services li {
-  margin: 20px 0;
+  font-size: 20px;
+  margin: 0;
+  margin-bottom: 20px;
+}
+.container_text_services li strong{
+  font-weight: 700;
+  font-style: italic;
 }
 .container_text_services h3 {
-  font-size: 2rem;
+  font-size: 36px;
+  color: #3c184e;
+  margin: 0;
   text-align: center;
+  margin-bottom: 45px;
 }
 
 .container_text_services div {
+  max-width: 800px;
+  margin: 0 auto;
   display: flex;
   justify-content: center;
 }
